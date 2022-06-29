@@ -1,0 +1,149 @@
+
+  #seccion3{
+      background-color: #ebebeb;
+  }
+  #seccion4{
+    background:#696868;
+    padding:50px;
+  }
+  #seccion5{
+    padding:50px;
+  }
+.backcolor{
+    color: #03508a;
+    background-color: #fff;
+}
+  .color-text{
+      color: #fff;
+  }
+  .color-text:hover{
+      color: #03508a;
+      background-color: #fff;
+  }
+.parrafo1 {
+    font-family: 'Didact Gothic', sans-serif;
+    font-size: 20px;
+    line-height: 1;
+}
+.parrafo2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    line-height: 1;
+}
+.bg-blue{
+    background-color: #0b87ec;
+}
+
+.box {
+    box-shadow: 0px 1.5px 5px rgba(0, 0, 0, 0.5);
+  }
+  .boton{
+      background: #fcb430;
+      border: none;
+      align-items: center;
+      box-shadow: 0px 1.5px 5px rgba(0, 0, 0, 0.5);
+  }
+  .boton:hover{
+    background: #f3ff08;
+  }
+  .centradoy{
+    padding: 70px;
+  }
+  .centradox{
+      padding-top: 88px;
+  }
+  .fuente h1{
+      font-weight: 800;
+      font-size: 70px;
+      color: #fff;
+      letter-spacing: 8px;
+  }
+  .fuente p{
+       color: #fff;
+       font-size: 20px;
+       text-align: center;
+  }
+  .padding-seccion2{
+      padding-left: 8%;
+      padding-right: 8%
+  }
+  .contenedor-icono svg{
+      width: 200px;
+      height: 250px;
+      color:#0b87ec;
+  }
+  .contenedor-icono2 svg{
+    width: 200px;
+    height: 250px;
+    color:#0b87ec;
+    float: right;
+}
+  .subrayado::after{
+    background: #0b87ec;
+    display: block;
+    width: 70px;
+    height: 4px;
+    content: ' ';
+  }
+  h2{
+    font-family: 'Sacramento', cursive;
+    font-size: 50px;
+  }
+  footer{
+    padding: 0px;
+
+  }
+  footer p{
+      font-size: 25px;
+      color: white;
+  }
+  footer ul{
+    padding-left: 0;
+    list-style: none;
+    margin: 0;
+}  
+footer ul li{
+    margin-bottom: 10px;
+}  
+footer .redes{
+    font-size: 25px;
+    display: flex;
+}
+footer .redes a{
+    margin: 0 7.5px;
+}
+a{
+    display: inline-block;
+    text-decoration: none;
+}
+
+.fa-facebook-square{
+    color: gray;
+}
+.fa-instagram-square{
+    color: gray;
+}
+.fa-twitter-square{
+    color: gray;
+}
+.fa-snapchat-square{
+    color: gray;
+}
+.fa-pinterest-square{
+    color: gray;
+}
+.fa-facebook-square:hover{
+    color: #03508a;
+}
+.fa-instagram-square:hover{
+    color: #c901c6;
+}
+.fa-twitter-square:hover{
+    color: #55acee;
+}
+.fa-snapchat-square:hover{
+    color: #fbff18;
+}
+.fa-pinterest-square:hover{
+    color: #c10505;
+}
